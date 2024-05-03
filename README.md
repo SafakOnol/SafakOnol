@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Safak Onol 👋
+
 
 <!--
-**SafakOnol/SafakOnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm a fresh Game Programming graduate who's interested in learning and applying underlying mechanics of video games and simulations. I love learning about and applying my skills on graphics rendering, game AI, physics and math.
+**SafakOnol/SafakOnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+
 -->
