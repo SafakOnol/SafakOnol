@@ -94,7 +94,7 @@ My portfolio showcases my passion for creating engaging gameplay experiences, fr
 - **GitHub repo:** **https://github.com/SafakOnol/RaycastEngine**
 
 ### Vagaho Engine (WIP - currently at very early development stage)
-- **Description:** 2D Game engine written in C
+- **Description:** 2D Game engine written in C++
 - **Role:** Solo developer
 - **Technologies Used:** SDL2 and its companion libraries, Visual Studio
 - **Key Features:**
