@@ -6,7 +6,7 @@ My portfolio showcases my passion for creating engaging gameplay experiences, fr
 
 Let's connect! You can always reach out to me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safakonol) or [![Email](https://img.shields.io/badge/-Email-0072C6?style=flat&logo=envelope&logoColor=white)](mailto:onolsafak@outlook.com)
 
-[⬇️ Download My CV](https://raw.githubusercontent.com/your_username/your_repository/main/download-icon.png)
+[⬇️ Download My CV](https://raw.githubusercontent.com/SafakOnol/SafakOnol/main/Safak_Onol_Resume.pdf.pdf)
 
 ## Skills
 - **Programming Languages:** C, C++(11,14,17,20), C#(Unity), Python, JavaScript, Java(processing), GDScript
