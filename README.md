@@ -2,7 +2,9 @@
 
 ## About Me
 I'm Safak Onol, a dedicated game programmer with a strong foundation in C/C++, C#, and various game engines like Unreal Engine and Unity. As a PASS leader at Humber College, I supported my peers in Game Math, Game Physics, Graphics, and Game Engines courses, enhancing my communication and leadership skills.
-My portfolio showcases my passion for creating engaging gameplay experiences, from physics-based combat systems to developing custom game engines. I'm always eager to tackle new challenges and collaborate on innovative projects in the game development industry. Let's connect!
+My portfolio showcases my passion for creating engaging gameplay experiences, from physics-based combat systems to developing custom game engines. I'm always eager to tackle new challenges and collaborate on innovative projects in the game development industry. 
+
+Let's connect! You can always reach out to me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safakonol) or [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:onolsafak@outlook.com)
 
 ## Skills
 - **Programming Languages:** C, C++(14,17,20), C#(Unity), Python, JavaScript, Java(processing), GDScript
