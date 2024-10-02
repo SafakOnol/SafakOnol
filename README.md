@@ -99,6 +99,10 @@ Let's connect! You can always reach out to me via [![LinkedIn](https://img.shiel
 - **GitHub repo:** **https://github.com/SafakOnol/RaycastEngine**
 
 ### Vagaho Engine (WIP - currently at very early development stage)
+
+![cpp_logo_s](https://github.com/user-attachments/assets/ef0d1671-d2ab-43ff-991f-00c630dfd295)
+
+
 - **Description:** 2D Game engine written in C++
 - **Role:** Solo developer
 - **Technologies Used:** SDL2 and its companion libraries, Visual Studio
