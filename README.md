@@ -99,7 +99,7 @@ Let's connect! You can always reach out to me via [![LinkedIn](https://img.shiel
 - **GitHub repo:** **https://github.com/SafakOnol/RaycastEngine**
 
 ### Vagaho Engine (WIP - currently at very early development stage)
-[![VahagoDevlog](https://img.youtube.com/vi/EH0EZkVaDxA)](https://www.youtube.com/watch?v=EH0EZkVaDxA)
+[![VahagoDevlog](https://img.youtube.com/vi/EH0EZkVaDxA/0.jpg)](https://www.youtube.com/watch?v=EH0EZkVaDxA)
 
 *Click on image to watch the video (3m46s)*
 - **Description:** 2D Game engine written in C++
