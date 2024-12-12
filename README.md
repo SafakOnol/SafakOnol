@@ -9,10 +9,10 @@ Let's connect! You can always reach out to me via [![LinkedIn](https://img.shiel
 [⬇️ Download My Resume](https://github.com/user-attachments/files/17717796/Safak_Onol_Resume.pdf)
 
 ## Skills
-- **Programming Languages:** C, C++(11,14,17,20), C#(Unity), Python, JavaScript, Java(processing), GDScript
+- **Programming Languages:** C, C++(11,14,17,20), C#(Unity), Lua, Python, JavaScript, Java, GDScript
 - **Game Engines:** Unreal Engine(4 & 5), Unity, Godot(3 & 4)
 - **Graphics APIs:** Vulkan, OpenGL
-- **Multimedia Libraries:** SDL, SFML, Raylib
+- **Multimedia Libraries:** SDL, SFML, raylib
 - **Audio APIs:** irrKlang, JUCE, FMOD, SDL_mixer
 - **Version Control:** Git, Plastic SCM, Perforce
 - **3D Modelling & Animation tools:** Blender, 3ds Max, Fusion 360
